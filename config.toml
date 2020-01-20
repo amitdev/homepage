@@ -79,7 +79,6 @@ uglyURLs = false
             taskList = true
             typographer = true
         [markup.goldmark.parser]
-            attribute = true
             autoHeadingID = true
             autoHeadingIDType = "github"
         [markup.goldmark.renderer]
