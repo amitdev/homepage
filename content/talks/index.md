@@ -12,5 +12,6 @@ gitinfo: false
 This is a talk I gave at [YOW Lambda Jam 2019](https://yowconference.com/talks/amit-dev/yow-lambda-jam-2019/introduction-to-functional-programming-in-rust-9744).
 The slides are available [here](https://amitdev.github.io/rust-fp/).
 
+
 {{< youtube 9x7W3_KKKeA >}}
 
