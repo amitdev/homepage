@@ -1,7 +1,7 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://example.com/"
+baseURL = "https://amitdev.github.io/"
 title = "Memetic Musings"
 languageCode = "en-US"
 hasCJKLanguage = false
